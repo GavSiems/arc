@@ -4,7 +4,7 @@ title: ALT Compute
 status: draft             
 owner: Quincey Johnson
 parents: [L1-002]               
-children: []              
+children: [LLR-001]              
 ---
 
 # L2-001: ALT Compute
