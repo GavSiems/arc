@@ -3,7 +3,7 @@ id: L2-001
 title: ALT Compute
 status: draft             
 owner: Quincey Johnson
-parents: [L1-001]               
+parents: [L1-002]               
 children: []              
 ---
 
