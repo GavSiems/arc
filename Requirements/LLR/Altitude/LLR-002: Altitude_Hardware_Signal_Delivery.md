@@ -1,9 +1,9 @@
 ---
 id: LLR-002                
-title: Altitude Hardware Signal Delivery
+title: Altitude PFD Signal Delivery
 status: draft             
 owner: Quincey Johnson
-parents: [L2-002]               
+parents: [L2-003]               
 children: [None]              
 ---
 
@@ -11,4 +11,4 @@ children: [None]
 
 ## Statement
 
-The Air Data Computer shall write AirDataComputer:airspeed to the PFD at XX Hz.
+The Air Data Computer shall write **AirDataComputer:airspeed** to the PFD at XX Hz.
