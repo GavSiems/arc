@@ -4,7 +4,7 @@ title: ALT Software Signal Delivery
 status: draft           
 owner: Quincey Johnson
 parents: [L1-002]              
-children: []          
+children: [LLR-002]          
 ---
 
 # L2-003: ALT Software Signal Delivery
