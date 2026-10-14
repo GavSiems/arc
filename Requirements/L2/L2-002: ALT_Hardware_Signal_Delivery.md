@@ -3,7 +3,7 @@ id: L2-002
 title: ALT Hardware Signal Delivery
 status: draft             
 owner: Quincey Johnson
-parents: [L2-002]               
+parents: [L1-002]               
 children: []              
 ---
 
