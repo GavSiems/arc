@@ -4,7 +4,7 @@ title: IAS Compute
 status: draft             
 owner: Gavin Siems
 parents: [L1-002]              
-children: []              
+children: [LLR-004, LLR-005, LLR-006, LLR-007]              
 ---
 
 # L2-004: IAS Compute
