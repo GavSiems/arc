@@ -1,13 +1,13 @@
 ---
 id: LLR-004                
-title: Indicated Airspeed Input Processing
+title: Pitot Pressure Input Processing
 status: draft             
 owner: Gavin Siems
 parents: [L2-004]               
 children: [None]              
 ---
 
-# LLR-004: Indicated Airspeed Input Processing 
+# LLR-004: Pitot Pressure Input Processing
 
 ## Statement
 The Air Data Computer shall compute **AirDataComputerInputProcessing:pitotPressurePa** per the following:
