@@ -7,7 +7,7 @@ parents: [L2-003]
 children: [None]              
 ---
 
-# LLR-002: Altitude Hardware Signal Delivery
+# LLR-002: Altitude PFD Signal Delivery
 
 ## Statement
 
