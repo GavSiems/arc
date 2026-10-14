@@ -7,7 +7,7 @@ parents: [L2-006]
 children: [None]              
 ---
 
-# LLR-006: Indicated Airspeed PFD Signal Delivery
+# LLR-008: Indicated Airspeed PFD Signal Delivery
 
 ## Statement
 The Air Data Computer shall write **AirDataComputerOutputProcessing:airspeedKnots** to the PFD at XX Hz.
